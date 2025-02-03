@@ -1,2 +1,2 @@
 hello world this is ed
-doing stuff in the branch
+doing stuff in the branch triyng to conflict
